@@ -1,6 +1,9 @@
 
 Amazon Aurora PostgreSQL Best Practices for OLTP Workloads
 
+Amazon Aurora PostgreSQL is a cloud-native, PostgreSQL-compatible relational database optimized for high throughput OLTP workloads.
+It offers up to 3× the throughput of standard PostgreSQL on similar hardware, with a distributed storage system, high availability features, and compatibility with existing PostgreSQL tools. This guide outlines best practices for using Aurora PostgreSQL in production OLTP environments, organized into key areas of database operations, analytics, aggregation, replication, query optimization, scaling, data management, design, performance, and security.
+
 Table of Contents:
 1. Database Operations
 2. Data Analysis
