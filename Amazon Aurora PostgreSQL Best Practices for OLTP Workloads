@@ -481,29 +481,18 @@ By following these security best practices – network isolation, encryption, st
 
 
 Sources:
-Amazon Web Services – Best practices for Amazon Aurora PostgreSQL​
-DOCS.AWS.AMAZON.COM
-Amazon Web Services – Aurora PostgreSQL Performance and Scaling​
-DOCS.AWS.AMAZON.COM
-​
-DOCS.AWS.AMAZON.COM
-Amazon Web Services – Aurora PostgreSQL Memory Management​
-DOCS.AWS.AMAZON.COM
-​
-DOCS.AWS.AMAZON.COM
-Amazon Web Services – Aurora PostgreSQL Cache Management (CCM)​
-DOCS.AWS.AMAZON.COM
-​
-DOCS.AWS.AMAZON.COM
-Amazon Web Services – Aurora PostgreSQL Query Plan Management​
-AWS.AMAZON.COM
-Amazon Web Services – Diagnosing Table and Index Bloat in Aurora​
-DOCS.AWS.AMAZON.COM
-​
-DOCS.AWS.AMAZON.COM
-Amazon Web Services – Aurora PostgreSQL Connection Pooling​
-DOCS.AWS.AMAZON.COM
-​
-DOCS.AWS.AMAZON.COM
+https://aws.amazon.com/blogs/database/amazon-aurora-postgresql-parameters-part-2-replication-security-and-logging/#:~:text=max_standby_streaming_delay
+
+https://aws.amazon.com/blogs/database/improve-query-performance-with-parallel-queries-in-amazon-rds-for-postgresql-and-amazon-aurora-postgresql-compatible-edition/#:~:text=Parallel%20queries%20in%20PostgreSQL%20have,to%20complete%20the%20query%20task
+
+https://aws.amazon.com/blogs/database/improve-query-performance-with-parallel-queries-in-amazon-rds-for-postgresql-and-amazon-aurora-postgresql-compatible-edition/#:~:text=Parallel%20queries%20in%20PostgreSQL%20have,to%20complete%20the%20query%20task
+https://aws.amazon.com/blogs/database/amazon-aurora-postgresql-parameters-part-2-replication-security-and-logging/#:~:text=match%20at%20L237%20back%20to,in%20the%20DB%20cluster%20parameter
+
+https://docs.aws.amazon.com/prescriptive-guidance/latest/ccm-and-qpm-aurora-postgresql/cluster-cache-management.html#:~:text=When%20you%20implement%20CCM%2C%20you,failover%20on%20the%20application%20performance
+
+https://aws.amazon.com/blogs/database/amazon-aurora-postgresql-parameters-part-1-memory-and-query-plan-management/#:~:text=apg_plan_mgmt
+
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraPostgreSQL.diag-table-ind-bloat.html#:~:text=To%20get%20started%2C%20gather%20the,role%20and%20database%20superusers
+
 
  
